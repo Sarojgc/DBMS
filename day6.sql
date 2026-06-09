@@ -1,4 +1,4 @@
-lab 6
+
 -- Create Role
 CREATE ROLE 'app_readwrite';
 
